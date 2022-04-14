@@ -6,6 +6,7 @@ namespace Array__Loops__Methods_task2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the number");
             int n = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
             while (n!=0)
@@ -14,6 +15,7 @@ namespace Array__Loops__Methods_task2
                 n /= 10;
 
             }
+            Console.WriteLine("Sum of the numbers are ");
             Console.WriteLine(sum);
         }
     }
