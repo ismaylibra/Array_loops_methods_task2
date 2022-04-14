@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.exe
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.dll
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\bin\Debug\netcoreapp3.1\Array, Loops, Methods task2.pdb
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.dll
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.pdb
+C:\Users\ASUS\Desktop\C# tasks\Array, Loops, Methods task2\Array, Loops, Methods task2\obj\Debug\netcoreapp3.1\Array, Loops, Methods task2.genruntimeconfig.cache

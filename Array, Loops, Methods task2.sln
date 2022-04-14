@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array, Loops, Methods task2", "Array, Loops, Methods task2\Array, Loops, Methods task2.csproj", "{C5C07E99-4602-4A70-B57A-84B059CCF56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C07E99-4602-4A70-B57A-84B059CCF56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C07E99-4602-4A70-B57A-84B059CCF56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C07E99-4602-4A70-B57A-84B059CCF56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C07E99-4602-4A70-B57A-84B059CCF56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F108181-2B0C-4CA6-A816-39524ED8105B}
+	EndGlobalSection
+EndGlobal
